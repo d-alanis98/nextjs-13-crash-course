@@ -33,5 +33,26 @@
     "description": "Sharpen your skills by building 50 quick, unique & fun mini projects.",
     "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
     "level": "Beginner"
+  },
+  {
+    "id": 6,
+    "link": "https://www.traversymedia.com/node-js-api-masterclass",
+    "title": "Node.js API Masterclass",
+    "level": "Intermediate",
+    "description": "Build an extensive RESTful API using Node.js, Express, and MongoDB"
+  },
+  {
+    "id": 7,
+    "link": "https://www.traversymedia.com/node-js-api-masterclass",
+    "title": "Node.js API Masterclass",
+    "level": "Intermediate",
+    "description": "Build an extensive RESTful API using Node.js, Express, and MongoDB"
+  },
+  {
+    "id": 8,
+    "link": "https://www.traversymedia.com/node-js-api-masterclass",
+    "title": "Node.js API Masterclass",
+    "level": "Intermediate",
+    "description": "Build an extensive RESTful API using Node.js, Express, and MongoDB"
   }
 ]
